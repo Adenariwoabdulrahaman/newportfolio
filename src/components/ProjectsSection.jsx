@@ -15,7 +15,7 @@ const projects = [
     title: "Todo app",
     description:
       "A lighweight task tracker built with JavaScript for adding and managing tasks",
-    image: "/src/assets/Project2.png",
+    image: "/public/Project2.png",
     tags: ["HTML", "CSS", "JAVASCRIPT"],
     demoUrl: "https://todoapp2-rho.vercel.app/",
     githubUrl: "https://github.com/Adenariwoabdulrahaman/todoapp2",
@@ -25,7 +25,7 @@ const projects = [
     title: "Todo-List App",
     description:
       "A React-powered todo list with a sleek UI for adding and organizing tasks easily",
-    image: "/src/assets/Project3.png",
+    image: "/public/Project3.png",
     tags: ["React", "CSS", "HTML"],
     demoUrl: "https://todolistapp-eta-five.vercel.app/",
     githubUrl: "https://github.com/Adenariwoabdulrahaman/Todoapp",
