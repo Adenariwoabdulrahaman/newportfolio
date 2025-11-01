@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Mini Calendar",
     description: "Simple mini calendar app built with HTML, CSS and JavaScript.",
-    image: "/projects/Project1.png",
+    image: "/projects/project1.png",
     tags: ["HTML", "CSS", "JAVASCRIPT"],
     demoUrl: "https:/minicalendar-eight.vercel.app",
     githubUrl: "https://github.com/Adenariwoabdulrahaman/minicalendar",
@@ -15,7 +15,7 @@ const projects = [
     title: "Todo app",
     description:
       "A lighweight task tracker built with JavaScript for adding and managing tasks",
-    image: "/projects/Project2.png",
+    image: "/projects/project2.png",
     tags: ["HTML", "CSS", "JAVASCRIPT"],
     demoUrl: "https://todoapp2-rho.vercel.app/",
     githubUrl: "https://github.com/Adenariwoabdulrahaman/todoapp2",
@@ -25,7 +25,7 @@ const projects = [
     title: "Todo-List App",
     description:
       "A React-powered todo list with a sleek UI for adding and organizing tasks easily",
-    image: "/projects/Project3.png",
+    image: "/projects/project3.png",
     tags: ["React", "CSS", "HTML"],
     demoUrl: "https://todolistapp-eta-five.vercel.app/",
     githubUrl: "https://github.com/Adenariwoabdulrahaman/Todoapp",
