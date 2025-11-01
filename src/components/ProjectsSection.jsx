@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Mini Calendar",
     description: "Simple mini calendar app built with HTML, CSS and JavaScript.",
-    image: "/src/public/Project1.png",
+    image: "/public/Project1.png",
     tags: ["HTML", "CSS", "JAVASCRIPT"],
     demoUrl: "https:/minicalendar-eight.vercel.app",
     githubUrl: "https://github.com/Adenariwoabdulrahaman/minicalendar",
