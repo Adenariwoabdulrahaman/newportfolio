@@ -25,7 +25,7 @@ const projects = [
     title: "Todo-List App",
     description:
       "A React-powered todo list with a sleek UI for adding and organizing tasks easily",
-    image: "/Project3.png",
+    image: "/public/projects/Project3.png",
     tags: ["React", "CSS", "HTML"],
     demoUrl: "https://todolistapp-eta-five.vercel.app/",
     githubUrl: "https://github.com/Adenariwoabdulrahaman/Todoapp",
