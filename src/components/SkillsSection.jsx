@@ -3,17 +3,17 @@ import { useState } from "react";
 
 const skills = [
   // Frontend
-  { name: "HTML/CSS", level: 95, category: "frontend" },
-  { name: "JavaScript", level: 80, category: "frontend" },
-  { name: "React", level: 70, category: "frontend" },
-  { name: "Tailwind CSS", level: 90, category: "frontend" },
+  { name: "HTML/CSS", level: 70, category: "frontend" },
+  { name: "JavaScript", level: 50, category: "frontend" },
+  { name: "React", level: 50, category: "frontend" },
+  
 
   // Backend
-  { name: "SQL", level: 50, category: "backend" },
+  { name: "SQL", level: 40, category: "backend" },
 
   // Tools
   { name: "Git/GitHub", level: 50, category: "tools" },
-  { name: "VS Code", level: 60, category: "tools" },
+  { name: "VS Code", level: 50, category: "tools" },
 
 ];
 
